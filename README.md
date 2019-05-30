@@ -7,7 +7,7 @@ $bot->name = "AntiSEPbot"; //Bot Name
 // Name of the bot. Youtube subs 
 $bot->idle_timeout = true;
 // Timeout and disconnect if Stranger stops talking.
-$bot->idle_seconds = 15;
+$bot->idle_seconds = 10;
 // How long to wait before idle_timeout.
 $bot->conn();
 while (1)
