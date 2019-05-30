@@ -1,3 +1,5 @@
+ Start menu -> Run  cmd
+ C:\python27\python.exe Z:\code\hw01\script.py
 <?php
 $class='./php.omegle.php'; // Path to Omegle connection class.
 require($class);
